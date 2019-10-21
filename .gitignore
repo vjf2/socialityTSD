@@ -1,3 +1,4 @@
 *.RData
 raw_data
 0DataWrangling.R
+.gitignore
